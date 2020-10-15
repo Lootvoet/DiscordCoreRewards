@@ -5,7 +5,7 @@ using Oxide.Core.Plugins;
 
 namespace Oxide.Plugins
 {
-    [Info("Discord Core Rewards", "KL", "0.0.1")]
+    [Info("Discord Core Rewards", "KL", "0.0.2")]
     [Description("Gives a reward to players who linked with discord")]
     internal class DiscordCoreRewards : CovalencePlugin
     {
